@@ -1,12 +1,3 @@
----
-layout: default
-permalink: /
----
-
-# <img src="assets/logo.svg" alt="class logo" class="logo"/> Advanced JavaScript syllabus
-
-***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/gh-pages/meta.md) document.***
-
 * **Course:** [INFO1-CE9766, NYU SCPS](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
 * **Instructor:** Aidan Feldman, [alf9@nyu.edu](mailto:alf9@nyu.edu)
 * **Need help?**
